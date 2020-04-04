@@ -1,0 +1,3 @@
+[submodule "javafx"]
+	path = javafx
+	url = https://github.com/openjdk/jfx.git
